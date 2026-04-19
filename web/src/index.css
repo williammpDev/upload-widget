@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --text-xxs: 0.625rem; /* 10px */
+  --text-xxs: 0.5rem; /* 8px */
 }
 
 @property --border-angle {
